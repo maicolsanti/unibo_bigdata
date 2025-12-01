@@ -1,0 +1,347 @@
+﻿FREQ	Frequenza	REF_AREA	Territorio	DATA_TYPE	Indicatore	FORM_VOLUNT	Tipo di volontariato	SEX	Sesso	TYPE_ACTIVITY_PERFORMED	Tipo di attività svolta	TIME_PERIOD	Osservazione	OBS_STATUS	'Stato dell"'osservazione'
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	1	Maschi	101	Dirigenti e imprenditori	2013	19		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	1	Maschi	102	Professioni intellettuali	2013	118		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	1	Maschi	102	Professioni intellettuali	2023	111		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	1	Maschi	103	Professioni tecniche	2013	283		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	1	Maschi	103	Professioni tecniche	2023	302		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	1	Maschi	201	Impiegati	2013	95		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	1	Maschi	201	Impiegati	2023	43		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	1	Maschi	202	Vendita e serv. personali	2013	471		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	1	Maschi	202	Vendita e serv. personali	2023	202		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	1	Maschi	301	Artigiani, operai specializzati, agricoltori	2013	101		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	1	Maschi	301	Artigiani, operai specializzati, agricoltori	2023	57		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	1	Maschi	302	Conduttori di impianti	2013	49		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	1	Maschi	302	Conduttori di impianti	2023	64		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	1	Maschi	40	Personale non qualificato	2013	234		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	1	Maschi	40	Personale non qualificato	2023	313		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	1	Maschi	99	Totale	2013	1433		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	1	Maschi	99	Totale	2023	1186		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	1	Maschi	60	Attività gratuite non assimilabili a professioni retribuite	2013	63		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	1	Maschi	60	Attività gratuite non assimilabili a professioni retribuite	2023	89		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2	Femmine	101	Dirigenti e imprenditori	2013	18		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2	Femmine	102	Professioni intellettuali	2013	104		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2	Femmine	102	Professioni intellettuali	2023	105		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2	Femmine	103	Professioni tecniche	2013	202		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2	Femmine	103	Professioni tecniche	2023	387		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2	Femmine	201	Impiegati	2013	70		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2	Femmine	201	Impiegati	2023	70		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2	Femmine	202	Vendita e serv. personali	2013	864		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2	Femmine	202	Vendita e serv. personali	2023	387		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2	Femmine	301	Artigiani, operai specializzati, agricoltori	2013	21		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2	Femmine	301	Artigiani, operai specializzati, agricoltori	2023	10		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2	Femmine	302	Conduttori di impianti	2013	22		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2	Femmine	302	Conduttori di impianti	2023	14		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2	Femmine	40	Personale non qualificato	2013	253		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2	Femmine	40	Personale non qualificato	2023	347		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2	Femmine	99	Totale	2013	1583		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2	Femmine	99	Totale	2023	1341		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2	Femmine	60	Attività gratuite non assimilabili a professioni retribuite	2013	30		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2	Femmine	60	Attività gratuite non assimilabili a professioni retribuite	2023	15		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	9	Totale	101	Dirigenti e imprenditori	2013	37		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	9	Totale	102	Professioni intellettuali	2013	222		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	9	Totale	102	Professioni intellettuali	2023	215		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	9	Totale	103	Professioni tecniche	2013	484		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	9	Totale	103	Professioni tecniche	2023	689		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	9	Totale	201	Impiegati	2013	165		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	9	Totale	201	Impiegati	2023	113		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	9	Totale	202	Vendita e serv. personali	2013	1335		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	9	Totale	202	Vendita e serv. personali	2023	590		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	9	Totale	301	Artigiani, operai specializzati, agricoltori	2013	122		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	9	Totale	301	Artigiani, operai specializzati, agricoltori	2023	67		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	9	Totale	302	Conduttori di impianti	2013	72		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	9	Totale	302	Conduttori di impianti	2023	78		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	9	Totale	40	Personale non qualificato	2013	486		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	9	Totale	40	Personale non qualificato	2023	660		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	9	Totale	99	Totale	2013	3016		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	9	Totale	99	Totale	2023	2526		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	9	Totale	60	Attività gratuite non assimilabili a professioni retribuite	2013	93		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	9	Totale	60	Attività gratuite non assimilabili a professioni retribuite	2023	104		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	1	Maschi	101	Dirigenti e imprenditori	2013	197		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	1	Maschi	101	Dirigenti e imprenditori	2023	109		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	1	Maschi	102	Professioni intellettuali	2013	153		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	1	Maschi	102	Professioni intellettuali	2023	141		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	1	Maschi	103	Professioni tecniche	2013	745		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	1	Maschi	103	Professioni tecniche	2023	433		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	1	Maschi	201	Impiegati	2013	109		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	1	Maschi	201	Impiegati	2023	119		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	1	Maschi	202	Vendita e serv. personali	2013	408		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	1	Maschi	202	Vendita e serv. personali	2023	353		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	1	Maschi	301	Artigiani, operai specializzati, agricoltori	2013	32		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	1	Maschi	301	Artigiani, operai specializzati, agricoltori	2023	28		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	1	Maschi	302	Conduttori di impianti	2013	79		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	1	Maschi	302	Conduttori di impianti	2023	93		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	1	Maschi	40	Personale non qualificato	2013	237		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	1	Maschi	40	Personale non qualificato	2023	257		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	1	Maschi	99	Totale	2013	2223		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	1	Maschi	99	Totale	2023	1647		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	1	Maschi	60	Attività gratuite non assimilabili a professioni retribuite	2013	263		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	1	Maschi	60	Attività gratuite non assimilabili a professioni retribuite	2023	111		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2	Femmine	101	Dirigenti e imprenditori	2013	72		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2	Femmine	101	Dirigenti e imprenditori	2023	53		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2	Femmine	102	Professioni intellettuali	2013	143		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2	Femmine	102	Professioni intellettuali	2023	116		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2	Femmine	103	Professioni tecniche	2013	585		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2	Femmine	103	Professioni tecniche	2023	423		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2	Femmine	201	Impiegati	2013	135		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2	Femmine	201	Impiegati	2023	93		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2	Femmine	202	Vendita e serv. personali	2013	563		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2	Femmine	202	Vendita e serv. personali	2023	492		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2	Femmine	301	Artigiani, operai specializzati, agricoltori	2013	21		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2	Femmine	301	Artigiani, operai specializzati, agricoltori	2023	31		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2	Femmine	302	Conduttori di impianti	2013	15		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2	Femmine	302	Conduttori di impianti	2023	35		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2	Femmine	40	Personale non qualificato	2013	274		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2	Femmine	40	Personale non qualificato	2023	227		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2	Femmine	99	Totale	2013	1900		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2	Femmine	99	Totale	2023	1527		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2	Femmine	60	Attività gratuite non assimilabili a professioni retribuite	2013	92		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2	Femmine	60	Attività gratuite non assimilabili a professioni retribuite	2023	47		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	9	Totale	101	Dirigenti e imprenditori	2013	268		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	9	Totale	101	Dirigenti e imprenditori	2023	162		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	9	Totale	102	Professioni intellettuali	2013	296		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	9	Totale	102	Professioni intellettuali	2023	257		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	9	Totale	103	Professioni tecniche	2013	1330		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	9	Totale	103	Professioni tecniche	2023	856		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	9	Totale	201	Impiegati	2013	244		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	9	Totale	201	Impiegati	2023	212		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	9	Totale	202	Vendita e serv. personali	2013	971		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	9	Totale	202	Vendita e serv. personali	2023	845		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	9	Totale	301	Artigiani, operai specializzati, agricoltori	2013	54		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	9	Totale	301	Artigiani, operai specializzati, agricoltori	2023	59		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	9	Totale	302	Conduttori di impianti	2013	94		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	9	Totale	302	Conduttori di impianti	2023	128		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	9	Totale	40	Personale non qualificato	2013	510		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	9	Totale	40	Personale non qualificato	2023	484		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	9	Totale	99	Totale	2013	4123		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	9	Totale	99	Totale	2023	3175		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	9	Totale	60	Attività gratuite non assimilabili a professioni retribuite	2013	355		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	9	Totale	60	Attività gratuite non assimilabili a professioni retribuite	2023	157		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	1	Maschi	101	Dirigenti e imprenditori	2013	1.3		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	1	Maschi	102	Professioni intellettuali	2013	8.2		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	1	Maschi	102	Professioni intellettuali	2023	9.3		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	1	Maschi	103	Professioni tecniche	2013	19.7		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	1	Maschi	103	Professioni tecniche	2023	25.4		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	1	Maschi	201	Impiegati	2013	6.6		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	1	Maschi	201	Impiegati	2023	3.6		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	1	Maschi	202	Vendita e serv. personali	2013	32.9		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	1	Maschi	202	Vendita e serv. personali	2023	17.1		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	1	Maschi	301	Artigiani, operai specializzati, agricoltori	2013	7.1		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	1	Maschi	301	Artigiani, operai specializzati, agricoltori	2023	4.8		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	1	Maschi	302	Conduttori di impianti	2013	3.4		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	1	Maschi	302	Conduttori di impianti	2023	5.4		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	1	Maschi	40	Personale non qualificato	2013	16.3		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	1	Maschi	40	Personale non qualificato	2023	26.4		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	1	Maschi	99	Totale	2013	5.7		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	1	Maschi	99	Totale	2023	4.8		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	1	Maschi	60	Attività gratuite non assimilabili a professioni retribuite	2013	4.4		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	1	Maschi	60	Attività gratuite non assimilabili a professioni retribuite	2023	7.5		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2	Femmine	101	Dirigenti e imprenditori	2013	1.1		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2	Femmine	102	Professioni intellettuali	2013	6.6		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2	Femmine	102	Professioni intellettuali	2023	7.8		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2	Femmine	103	Professioni tecniche	2013	12.7		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2	Femmine	103	Professioni tecniche	2023	28.9		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2	Femmine	201	Impiegati	2013	4.5		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2	Femmine	201	Impiegati	2023	5.2		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2	Femmine	202	Vendita e serv. personali	2013	54.6		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2	Femmine	202	Vendita e serv. personali	2023	28.9		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2	Femmine	301	Artigiani, operai specializzati, agricoltori	2013	1.3		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2	Femmine	301	Artigiani, operai specializzati, agricoltori	2023	0.8		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2	Femmine	302	Conduttori di impianti	2013	1.4		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2	Femmine	302	Conduttori di impianti	2023	1		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2	Femmine	40	Personale non qualificato	2013	16		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2	Femmine	40	Personale non qualificato	2023	25.9		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2	Femmine	99	Totale	2013	5.9		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2	Femmine	99	Totale	2023	5.1		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2	Femmine	60	Attività gratuite non assimilabili a professioni retribuite	2013	1.9		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2	Femmine	60	Attività gratuite non assimilabili a professioni retribuite	2023	1.1		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	9	Totale	101	Dirigenti e imprenditori	2013	1.2		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	9	Totale	102	Professioni intellettuali	2013	7.4		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	9	Totale	102	Professioni intellettuali	2023	8.5		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	9	Totale	103	Professioni tecniche	2013	16.1		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	9	Totale	103	Professioni tecniche	2023	27.3		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	9	Totale	201	Impiegati	2013	5.5		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	9	Totale	201	Impiegati	2023	4.5		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	9	Totale	202	Vendita e serv. personali	2013	44.3		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	9	Totale	202	Vendita e serv. personali	2023	23.3		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	9	Totale	301	Artigiani, operai specializzati, agricoltori	2013	4		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	9	Totale	301	Artigiani, operai specializzati, agricoltori	2023	2.7		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	9	Totale	302	Conduttori di impianti	2013	2.4		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	9	Totale	302	Conduttori di impianti	2023	3.1		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	9	Totale	40	Personale non qualificato	2013	16.1		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	9	Totale	40	Personale non qualificato	2023	26.1		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	9	Totale	99	Totale	2013	5.8		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	9	Totale	99	Totale	2023	4.9		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	9	Totale	60	Attività gratuite non assimilabili a professioni retribuite	2013	3.1		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	9	Totale	60	Attività gratuite non assimilabili a professioni retribuite	2023	4.1		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	1	Maschi	101	Dirigenti e imprenditori	2013	8.9		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	1	Maschi	101	Dirigenti e imprenditori	2023	6.6		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	1	Maschi	102	Professioni intellettuali	2013	6.9		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	1	Maschi	102	Professioni intellettuali	2023	8.6		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	1	Maschi	103	Professioni tecniche	2013	33.5		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	1	Maschi	103	Professioni tecniche	2023	26.3		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	1	Maschi	201	Impiegati	2013	4.9		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	1	Maschi	201	Impiegati	2023	7.2		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	1	Maschi	202	Vendita e serv. personali	2013	18.4		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	1	Maschi	202	Vendita e serv. personali	2023	21.4		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	1	Maschi	301	Artigiani, operai specializzati, agricoltori	2013	1.5		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	1	Maschi	301	Artigiani, operai specializzati, agricoltori	2023	1.7		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	1	Maschi	302	Conduttori di impianti	2013	3.5		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	1	Maschi	302	Conduttori di impianti	2023	5.7		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	1	Maschi	40	Personale non qualificato	2013	10.7		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	1	Maschi	40	Personale non qualificato	2023	15.6		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	1	Maschi	99	Totale	2013	8.9		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	1	Maschi	99	Totale	2023	6.6		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	1	Maschi	60	Attività gratuite non assimilabili a professioni retribuite	2013	11.8		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	1	Maschi	60	Attività gratuite non assimilabili a professioni retribuite	2023	6.7		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2	Femmine	101	Dirigenti e imprenditori	2013	3.8		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2	Femmine	101	Dirigenti e imprenditori	2023	3.5		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2	Femmine	102	Professioni intellettuali	2013	7.5		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2	Femmine	102	Professioni intellettuali	2023	7.6		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2	Femmine	103	Professioni tecniche	2013	30.8		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2	Femmine	103	Professioni tecniche	2023	27.7		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2	Femmine	201	Impiegati	2013	7.1		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2	Femmine	201	Impiegati	2023	6.1		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2	Femmine	202	Vendita e serv. personali	2013	29.6		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2	Femmine	202	Vendita e serv. personali	2023	32.2		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2	Femmine	301	Artigiani, operai specializzati, agricoltori	2013	1.1		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2	Femmine	301	Artigiani, operai specializzati, agricoltori	2023	2.1		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2	Femmine	302	Conduttori di impianti	2013	0.8		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2	Femmine	302	Conduttori di impianti	2023	2.3		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2	Femmine	40	Personale non qualificato	2013	14.4		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2	Femmine	40	Personale non qualificato	2023	14.9		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2	Femmine	99	Totale	2013	7		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2	Femmine	99	Totale	2023	5.8		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2	Femmine	60	Attività gratuite non assimilabili a professioni retribuite	2013	4.9		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2	Femmine	60	Attività gratuite non assimilabili a professioni retribuite	2023	3		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	9	Totale	101	Dirigenti e imprenditori	2013	6.5		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	9	Totale	101	Dirigenti e imprenditori	2023	5.1		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	9	Totale	102	Professioni intellettuali	2013	7.2		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	9	Totale	102	Professioni intellettuali	2023	8.1		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	9	Totale	103	Professioni tecniche	2013	32.3		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	9	Totale	103	Professioni tecniche	2023	26.9		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	9	Totale	201	Impiegati	2013	5.9		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	9	Totale	201	Impiegati	2023	6.7		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	9	Totale	202	Vendita e serv. personali	2013	23.6		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	9	Totale	202	Vendita e serv. personali	2023	26.6		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	9	Totale	301	Artigiani, operai specializzati, agricoltori	2013	1.3		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	9	Totale	301	Artigiani, operai specializzati, agricoltori	2023	1.9		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	9	Totale	302	Conduttori di impianti	2013	2.3		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	9	Totale	302	Conduttori di impianti	2023	4		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	9	Totale	40	Personale non qualificato	2013	12.4		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	9	Totale	40	Personale non qualificato	2023	15.2		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	9	Totale	99	Totale	2013	7.9		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	9	Totale	99	Totale	2023	6.2		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	9	Totale	60	Attività gratuite non assimilabili a professioni retribuite	2013	8.6		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	9	Totale	60	Attività gratuite non assimilabili a professioni retribuite	2023	5		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	1	Maschi	99	Totale	2013	13.5		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	1	Maschi	99	Totale	2023	9.4		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2	Femmine	99	Totale	2013	12		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2	Femmine	99	Totale	2023	8.9		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	9	Totale	99	Totale	2013	12.7		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	9	Totale	99	Totale	2023	9.1		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	1	Maschi	99	Totale	2013	20946		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	1	Maschi	99	Totale	2023	12397		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2	Femmine	99	Totale	2013	27289		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2	Femmine	99	Totale	2023	15295		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	9	Totale	101	Dirigenti e imprenditori	2013	726		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	9	Totale	102	Professioni intellettuali	2013	3330		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	9	Totale	102	Professioni intellettuali	2023	2192		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	9	Totale	103	Professioni tecniche	2013	6038		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	9	Totale	103	Professioni tecniche	2023	6648		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	9	Totale	201	Impiegati	2013	2302		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	9	Totale	201	Impiegati	2023	603		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	9	Totale	202	Vendita e serv. personali	2013	26470		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	9	Totale	202	Vendita e serv. personali	2023	8330		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	9	Totale	301	Artigiani, operai specializzati, agricoltori	2013	2273		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	9	Totale	301	Artigiani, operai specializzati, agricoltori	2023	420		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	9	Totale	302	Conduttori di impianti	2013	821		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	9	Totale	302	Conduttori di impianti	2023	798		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	9	Totale	40	Personale non qualificato	2013	5627		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	9	Totale	40	Personale non qualificato	2023	8313		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	9	Totale	99	Totale	2013	48236		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	9	Totale	99	Totale	2023	27692		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	9	Totale	60	Attività gratuite non assimilabili a professioni retribuite	2013	650		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	9	Totale	60	Attività gratuite non assimilabili a professioni retribuite	2023	211		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	1	Maschi	99	Totale	2013	42352		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	1	Maschi	99	Totale	2023	29667		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2	Femmine	99	Totale	2013	34702		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2	Femmine	99	Totale	2023	26917		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	9	Totale	101	Dirigenti e imprenditori	2013	6741		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	9	Totale	101	Dirigenti e imprenditori	2023	4153		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	9	Totale	102	Professioni intellettuali	2013	6695		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	9	Totale	102	Professioni intellettuali	2023	4193		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	9	Totale	103	Professioni tecniche	2013	25684		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	9	Totale	103	Professioni tecniche	2023	12645		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	9	Totale	201	Impiegati	2013	6305		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	9	Totale	201	Impiegati	2023	4941		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	9	Totale	202	Vendita e serv. personali	2013	17153		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	9	Totale	202	Vendita e serv. personali	2023	15768		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	9	Totale	301	Artigiani, operai specializzati, agricoltori	2013	658		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	9	Totale	301	Artigiani, operai specializzati, agricoltori	2023	945		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	9	Totale	302	Conduttori di impianti	2013	2239		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	9	Totale	302	Conduttori di impianti	2023	3786		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	9	Totale	40	Personale non qualificato	2013	10183		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	9	Totale	40	Personale non qualificato	2023	8959		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	9	Totale	99	Totale	2013	77053		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	9	Totale	99	Totale	2023	56585		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	9	Totale	60	Attività gratuite non assimilabili a professioni retribuite	2013	1397		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	9	Totale	60	Attività gratuite non assimilabili a professioni retribuite	2023	812		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	1	Maschi	99	Totale	2013	63298		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	1	Maschi	99	Totale	2023	42064		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2	Femmine	99	Totale	2013	61991		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2	Femmine	99	Totale	2023	42212		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	9	Totale	99	Totale	2013	125289		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	9	Totale	99	Totale	2023	84276		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	1	Maschi	99	Totale	2013	14.6		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	1	Maschi	99	Totale	2023	10.5		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2	Femmine	99	Totale	2013	17.2		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2	Femmine	99	Totale	2023	11.4		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	9	Totale	101	Dirigenti e imprenditori	2013	19.6		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	9	Totale	102	Professioni intellettuali	2013	15		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	9	Totale	102	Professioni intellettuali	2023	10.2		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	9	Totale	103	Professioni tecniche	2013	12.5		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	9	Totale	103	Professioni tecniche	2023	9.6		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	9	Totale	201	Impiegati	2013	13.9		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	9	Totale	201	Impiegati	2023	5.3		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	9	Totale	202	Vendita e serv. personali	2013	19.8		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	9	Totale	202	Vendita e serv. personali	2023	14.1		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	9	Totale	301	Artigiani, operai specializzati, agricoltori	2013	18.6		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	9	Totale	301	Artigiani, operai specializzati, agricoltori	2023	6.2		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	9	Totale	302	Conduttori di impianti	2013	11.5		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	9	Totale	302	Conduttori di impianti	2023	10.3		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	9	Totale	40	Personale non qualificato	2013	11.6		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	9	Totale	40	Personale non qualificato	2023	12.6		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	9	Totale	99	Totale	2013	16		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	9	Totale	99	Totale	2023	11		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	9	Totale	60	Attività gratuite non assimilabili a professioni retribuite	2013	7		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	9	Totale	60	Attività gratuite non assimilabili a professioni retribuite	2023	2		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	1	Maschi	99	Totale	2013	19.1		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	1	Maschi	99	Totale	2023	18		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2	Femmine	99	Totale	2013	18.3		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2	Femmine	99	Totale	2023	17.6		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	9	Totale	101	Dirigenti e imprenditori	2013	25.1		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	9	Totale	101	Dirigenti e imprenditori	2023	25.6		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	9	Totale	102	Professioni intellettuali	2013	22.6		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	9	Totale	102	Professioni intellettuali	2023	16.3		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	9	Totale	103	Professioni tecniche	2013	19.3		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	9	Totale	103	Professioni tecniche	2023	14.8		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	9	Totale	201	Impiegati	2013	25.9		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	9	Totale	201	Impiegati	2023	23.3		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	9	Totale	202	Vendita e serv. personali	2013	17.7		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	9	Totale	202	Vendita e serv. personali	2023	18.7		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	9	Totale	301	Artigiani, operai specializzati, agricoltori	2013	12.3		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	9	Totale	301	Artigiani, operai specializzati, agricoltori	2023	15.9		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	9	Totale	302	Conduttori di impianti	2013	23.8		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	9	Totale	302	Conduttori di impianti	2023	29.5		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	9	Totale	40	Personale non qualificato	2013	20		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	9	Totale	40	Personale non qualificato	2023	18.5		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	9	Totale	99	Totale	2013	18.7		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	9	Totale	99	Totale	2023	17.8		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	9	Totale	60	Attività gratuite non assimilabili a professioni retribuite	2013	3.9		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	9	Totale	60	Attività gratuite non assimilabili a professioni retribuite	2023	5.2		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	1	Maschi	99	Totale	2013	18.8		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	1	Maschi	99	Totale	2023	18		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2	Femmine	99	Totale	2013	19.2		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2	Femmine	99	Totale	2023	18		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	9	Totale	99	Totale	2013	19		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	9	Totale	99	Totale	2023	18		

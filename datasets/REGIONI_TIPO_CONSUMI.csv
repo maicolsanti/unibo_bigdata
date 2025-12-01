@@ -1,0 +1,749 @@
+﻿FREQ	Frequenza	REF_AREA	Territorio	DATA_TYPE	Indicatore	FORM_VOLUNT	Tipo di volontariato	TIME_PERIOD	Osservazione	OBS_STATUS	'Stato dell"'osservazione'
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2013	3016		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2023	2526		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2013	4123		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2023	3175		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2013	5.8		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2023	4.9		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2013	7.9		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2023	6.2		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2013	12.7		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2023	9.1		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	48236		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	27692		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	77053		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	56585		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	125289		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	84276		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	16		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	11		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	18.7		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	17.8		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	19		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	18		
+A	Annuale	ITC	Nord-ovest	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2013	779		
+A	Annuale	ITC	Nord-ovest	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2023	815		
+A	Annuale	ITC	Nord-ovest	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2013	1304		
+A	Annuale	ITC	Nord-ovest	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2023	1045		
+A	Annuale	ITC	Nord-ovest	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2013	5.6		
+A	Annuale	ITC	Nord-ovest	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2023	5.9		
+A	Annuale	ITC	Nord-ovest	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2013	9.4		
+A	Annuale	ITC	Nord-ovest	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2023	7.6		
+A	Annuale	ITC	Nord-ovest	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2013	14		
+A	Annuale	ITC	Nord-ovest	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2023	10.9		
+A	Annuale	ITC	Nord-ovest	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	13883		
+A	Annuale	ITC	Nord-ovest	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	8389		
+A	Annuale	ITC	Nord-ovest	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	27686		
+A	Annuale	ITC	Nord-ovest	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	22360		
+A	Annuale	ITC	Nord-ovest	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	41569		
+A	Annuale	ITC	Nord-ovest	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	30748		
+A	Annuale	ITC	Nord-ovest	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	17.8		
+A	Annuale	ITC	Nord-ovest	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	10.3		
+A	Annuale	ITC	Nord-ovest	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	21.2		
+A	Annuale	ITC	Nord-ovest	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	21.4		
+A	Annuale	ITC	Nord-ovest	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	21.3		
+A	Annuale	ITC	Nord-ovest	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	20.3		
+A	Annuale	ITC1	Piemonte	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2013	180		
+A	Annuale	ITC1	Piemonte	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2023	216		
+A	Annuale	ITC1	Piemonte	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2013	335		
+A	Annuale	ITC1	Piemonte	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2023	235		
+A	Annuale	ITC1	Piemonte	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2013	4.7		
+A	Annuale	ITC1	Piemonte	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2023	5.8		
+A	Annuale	ITC1	Piemonte	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2013	8.7		
+A	Annuale	ITC1	Piemonte	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2023	6.3		
+A	Annuale	ITC1	Piemonte	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2013	12.2		
+A	Annuale	ITC1	Piemonte	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2023	10.8		
+A	Annuale	ITC1	Piemonte	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	3377		
+A	Annuale	ITC1	Piemonte	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	2492		
+A	Annuale	ITC1	Piemonte	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	8384		
+A	Annuale	ITC1	Piemonte	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	4012		
+A	Annuale	ITC1	Piemonte	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	11761		
+A	Annuale	ITC1	Piemonte	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	6504		
+A	Annuale	ITC1	Piemonte	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	18.8		
+A	Annuale	ITC1	Piemonte	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	11.6		
+A	Annuale	ITC1	Piemonte	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	25.1		
+A	Annuale	ITC1	Piemonte	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	17.1		
+A	Annuale	ITC1	Piemonte	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	24.9		
+A	Annuale	ITC1	Piemonte	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	16.2		
+A	Annuale	ITC2	'Valle d"'Aosta / Vallée d"'Aoste'	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2013	6		
+A	Annuale	ITC2	'Valle d"'Aosta / Vallée d"'Aoste'	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2023	4		
+A	Annuale	ITC2	'Valle d"'Aosta / Vallée d"'Aoste'	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2013	10		
+A	Annuale	ITC2	'Valle d"'Aosta / Vallée d"'Aoste'	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2023	7		
+A	Annuale	ITC2	'Valle d"'Aosta / Vallée d"'Aoste'	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2013	5.5		
+A	Annuale	ITC2	'Valle d"'Aosta / Vallée d"'Aoste'	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2023	3.9		
+A	Annuale	ITC2	'Valle d"'Aosta / Vallée d"'Aoste'	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2013	8.7		
+A	Annuale	ITC2	'Valle d"'Aosta / Vallée d"'Aoste'	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2023	6.5		
+A	Annuale	ITC2	'Valle d"'Aosta / Vallée d"'Aoste'	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2013	13.5		
+A	Annuale	ITC2	'Valle d"'Aosta / Vallée d"'Aoste'	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2023	8.2		
+A	Annuale	ITC2	'Valle d"'Aosta / Vallée d"'Aoste'	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	76		
+A	Annuale	ITC2	'Valle d"'Aosta / Vallée d"'Aoste'	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	70		
+A	Annuale	ITC2	'Valle d"'Aosta / Vallée d"'Aoste'	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	244		
+A	Annuale	ITC2	'Valle d"'Aosta / Vallée d"'Aoste'	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	125		
+A	Annuale	ITC2	'Valle d"'Aosta / Vallée d"'Aoste'	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	319		
+A	Annuale	ITC2	'Valle d"'Aosta / Vallée d"'Aoste'	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	195		
+A	Annuale	ITC2	'Valle d"'Aosta / Vallée d"'Aoste'	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	12.4		
+A	Annuale	ITC2	'Valle d"'Aosta / Vallée d"'Aoste'	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	16.5		
+A	Annuale	ITC2	'Valle d"'Aosta / Vallée d"'Aoste'	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	25.5		
+A	Annuale	ITC2	'Valle d"'Aosta / Vallée d"'Aoste'	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	17.8		
+A	Annuale	ITC2	'Valle d"'Aosta / Vallée d"'Aoste'	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	21.5		
+A	Annuale	ITC2	'Valle d"'Aosta / Vallée d"'Aoste'	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	22.1		
+A	Annuale	ITC3	Liguria	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2013	73		
+A	Annuale	ITC3	Liguria	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2023	95		
+A	Annuale	ITC3	Liguria	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2013	89		
+A	Annuale	ITC3	Liguria	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2023	81		
+A	Annuale	ITC3	Liguria	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2013	5.1		
+A	Annuale	ITC3	Liguria	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2023	7.1		
+A	Annuale	ITC3	Liguria	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2013	6.3		
+A	Annuale	ITC3	Liguria	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2023	6.1		
+A	Annuale	ITC3	Liguria	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2013	10.6		
+A	Annuale	ITC3	Liguria	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2023	11.3		
+A	Annuale	ITC3	Liguria	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	863		
+A	Annuale	ITC3	Liguria	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	939		
+A	Annuale	ITC3	Liguria	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	1762		
+A	Annuale	ITC3	Liguria	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	2151		
+A	Annuale	ITC3	Liguria	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	2625		
+A	Annuale	ITC3	Liguria	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	3089		
+A	Annuale	ITC3	Liguria	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	11.9		
+A	Annuale	ITC3	Liguria	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	9.9		
+A	Annuale	ITC3	Liguria	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	19.7		
+A	Annuale	ITC3	Liguria	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	26.4		
+A	Annuale	ITC3	Liguria	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	17.5		
+A	Annuale	ITC3	Liguria	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	20.6		
+A	Annuale	ITC4	Lombardia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2013	521		
+A	Annuale	ITC4	Lombardia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2023	500		
+A	Annuale	ITC4	Lombardia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2013	871		
+A	Annuale	ITC4	Lombardia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2023	722		
+A	Annuale	ITC4	Lombardia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2013	6.1		
+A	Annuale	ITC4	Lombardia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2023	5.8		
+A	Annuale	ITC4	Lombardia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2013	10.2		
+A	Annuale	ITC4	Lombardia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2023	8.3		
+A	Annuale	ITC4	Lombardia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2013	15.4		
+A	Annuale	ITC4	Lombardia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2023	11		
+A	Annuale	ITC4	Lombardia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	9568		
+A	Annuale	ITC4	Lombardia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	4889		
+A	Annuale	ITC4	Lombardia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	17296		
+A	Annuale	ITC4	Lombardia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	16072		
+A	Annuale	ITC4	Lombardia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	26864		
+A	Annuale	ITC4	Lombardia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	20961		
+A	Annuale	ITC4	Lombardia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	18.4		
+A	Annuale	ITC4	Lombardia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	9.8		
+A	Annuale	ITC4	Lombardia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	19.9		
+A	Annuale	ITC4	Lombardia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	22.3		
+A	Annuale	ITC4	Lombardia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	20.5		
+A	Annuale	ITC4	Lombardia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	22		
+A	Annuale	ITD	Nord-est	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2013	708		
+A	Annuale	ITD	Nord-est	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2023	627		
+A	Annuale	ITD	Nord-est	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2013	1021		
+A	Annuale	ITD	Nord-est	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2023	911		
+A	Annuale	ITD	Nord-est	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2013	7.1		
+A	Annuale	ITD	Nord-est	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2023	6.2		
+A	Annuale	ITD	Nord-est	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2013	10.2		
+A	Annuale	ITD	Nord-est	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2023	9.1		
+A	Annuale	ITD	Nord-est	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2013	16.1		
+A	Annuale	ITD	Nord-est	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2023	13.1		
+A	Annuale	ITD	Nord-est	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	11105		
+A	Annuale	ITD	Nord-est	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	6916		
+A	Annuale	ITD	Nord-est	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	20218		
+A	Annuale	ITD	Nord-est	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	14979		
+A	Annuale	ITD	Nord-est	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	31323		
+A	Annuale	ITD	Nord-est	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	21895		
+A	Annuale	ITD	Nord-est	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	15.7		
+A	Annuale	ITD	Nord-est	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	11		
+A	Annuale	ITD	Nord-est	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	19.8		
+A	Annuale	ITD	Nord-est	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	16.4		
+A	Annuale	ITD	Nord-est	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	19.4		
+A	Annuale	ITD	Nord-est	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	16.6		
+A	Annuale	ITDA	Trentino Alto Adige / Südtirol	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2013	71		
+A	Annuale	ITDA	Trentino Alto Adige / Südtirol	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2023	58		
+A	Annuale	ITDA	Trentino Alto Adige / Südtirol	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2013	139		
+A	Annuale	ITDA	Trentino Alto Adige / Südtirol	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2023	148		
+A	Annuale	ITDA	Trentino Alto Adige / Südtirol	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2013	8.1		
+A	Annuale	ITDA	Trentino Alto Adige / Südtirol	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2023	6.4		
+A	Annuale	ITDA	Trentino Alto Adige / Südtirol	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2013	15.8		
+A	Annuale	ITDA	Trentino Alto Adige / Südtirol	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2023	16.2		
+A	Annuale	ITDA	Trentino Alto Adige / Südtirol	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2013	21.9		
+A	Annuale	ITDA	Trentino Alto Adige / Südtirol	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2023	19.8		
+A	Annuale	ITDA	Trentino Alto Adige / Südtirol	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	1421		
+A	Annuale	ITDA	Trentino Alto Adige / Südtirol	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	481		
+A	Annuale	ITDA	Trentino Alto Adige / Südtirol	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	2618		
+A	Annuale	ITDA	Trentino Alto Adige / Südtirol	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	2036		
+A	Annuale	ITDA	Trentino Alto Adige / Südtirol	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	4039		
+A	Annuale	ITDA	Trentino Alto Adige / Südtirol	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	2516		
+A	Annuale	ITDA	Trentino Alto Adige / Südtirol	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	20.1		
+A	Annuale	ITDA	Trentino Alto Adige / Südtirol	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	8.3		
+A	Annuale	ITDA	Trentino Alto Adige / Südtirol	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	18.9		
+A	Annuale	ITDA	Trentino Alto Adige / Südtirol	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	13.8		
+A	Annuale	ITDA	Trentino Alto Adige / Südtirol	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	21		
+A	Annuale	ITDA	Trentino Alto Adige / Südtirol	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	13.9		
+A	Annuale	ITD1	Provincia Autonoma Bolzano / Bozen	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2013	35		
+A	Annuale	ITD1	Provincia Autonoma Bolzano / Bozen	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2023	25		
+A	Annuale	ITD1	Provincia Autonoma Bolzano / Bozen	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2013	72		
+A	Annuale	ITD1	Provincia Autonoma Bolzano / Bozen	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2023	71		
+A	Annuale	ITD1	Provincia Autonoma Bolzano / Bozen	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2013	8.2		
+A	Annuale	ITD1	Provincia Autonoma Bolzano / Bozen	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2023	5.5		
+A	Annuale	ITD1	Provincia Autonoma Bolzano / Bozen	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2013	16.9		
+A	Annuale	ITD1	Provincia Autonoma Bolzano / Bozen	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2023	15.8		
+A	Annuale	ITD1	Provincia Autonoma Bolzano / Bozen	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2013	23		
+A	Annuale	ITD1	Provincia Autonoma Bolzano / Bozen	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2023	18.3		
+A	Annuale	ITD1	Provincia Autonoma Bolzano / Bozen	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	1035		
+A	Annuale	ITD1	Provincia Autonoma Bolzano / Bozen	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	234		
+A	Annuale	ITD1	Provincia Autonoma Bolzano / Bozen	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	1387		
+A	Annuale	ITD1	Provincia Autonoma Bolzano / Bozen	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	917		
+A	Annuale	ITD1	Provincia Autonoma Bolzano / Bozen	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	2422		
+A	Annuale	ITD1	Provincia Autonoma Bolzano / Bozen	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	1151		
+A	Annuale	ITD1	Provincia Autonoma Bolzano / Bozen	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	29.5		
+A	Annuale	ITD1	Provincia Autonoma Bolzano / Bozen	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	9.5		
+A	Annuale	ITD1	Provincia Autonoma Bolzano / Bozen	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	19.2		
+A	Annuale	ITD1	Provincia Autonoma Bolzano / Bozen	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	13		
+A	Annuale	ITD1	Provincia Autonoma Bolzano / Bozen	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	24.7		
+A	Annuale	ITD1	Provincia Autonoma Bolzano / Bozen	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	14		
+A	Annuale	ITD2	Provincia Autonoma Trento	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2013	35		
+A	Annuale	ITD2	Provincia Autonoma Trento	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2023	33		
+A	Annuale	ITD2	Provincia Autonoma Trento	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2013	67		
+A	Annuale	ITD2	Provincia Autonoma Trento	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2023	77		
+A	Annuale	ITD2	Provincia Autonoma Trento	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2013	7.9		
+A	Annuale	ITD2	Provincia Autonoma Trento	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2023	7.2		
+A	Annuale	ITD2	Provincia Autonoma Trento	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2013	14.8		
+A	Annuale	ITD2	Provincia Autonoma Trento	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2023	16.5		
+A	Annuale	ITD2	Provincia Autonoma Trento	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2013	20.9		
+A	Annuale	ITD2	Provincia Autonoma Trento	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2023	21.2		
+A	Annuale	ITD2	Provincia Autonoma Trento	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	386		
+A	Annuale	ITD2	Provincia Autonoma Trento	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	247		
+A	Annuale	ITD2	Provincia Autonoma Trento	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	1231		
+A	Annuale	ITD2	Provincia Autonoma Trento	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	1118		
+A	Annuale	ITD2	Provincia Autonoma Trento	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	1617		
+A	Annuale	ITD2	Provincia Autonoma Trento	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	1366		
+A	Annuale	ITD2	Provincia Autonoma Trento	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	10.9		
+A	Annuale	ITD2	Provincia Autonoma Trento	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	7.4		
+A	Annuale	ITD2	Provincia Autonoma Trento	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	18.5		
+A	Annuale	ITD2	Provincia Autonoma Trento	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	14.5		
+A	Annuale	ITD2	Provincia Autonoma Trento	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	17.2		
+A	Annuale	ITD2	Provincia Autonoma Trento	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	13.8		
+A	Annuale	ITD3	Veneto	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2013	322		
+A	Annuale	ITD3	Veneto	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2023	261		
+A	Annuale	ITD3	Veneto	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2013	458		
+A	Annuale	ITD3	Veneto	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2023	369		
+A	Annuale	ITD3	Veneto	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2013	7.6		
+A	Annuale	ITD3	Veneto	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2023	6.2		
+A	Annuale	ITD3	Veneto	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2013	10.9		
+A	Annuale	ITD3	Veneto	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2023	8.7		
+A	Annuale	ITD3	Veneto	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2013	17.4		
+A	Annuale	ITD3	Veneto	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2023	12.7		
+A	Annuale	ITD3	Veneto	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	4538		
+A	Annuale	ITD3	Veneto	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	3072		
+A	Annuale	ITD3	Veneto	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	8239		
+A	Annuale	ITD3	Veneto	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	5877		
+A	Annuale	ITD3	Veneto	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	12777		
+A	Annuale	ITD3	Veneto	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	8949		
+A	Annuale	ITD3	Veneto	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	14.1		
+A	Annuale	ITD3	Veneto	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	11.8		
+A	Annuale	ITD3	Veneto	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	18		
+A	Annuale	ITD3	Veneto	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	15.9		
+A	Annuale	ITD3	Veneto	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	17.4		
+A	Annuale	ITD3	Veneto	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	16.7		
+A	Annuale	ITD4	Friuli-Venezia Giulia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2013	75		
+A	Annuale	ITD4	Friuli-Venezia Giulia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2023	74		
+A	Annuale	ITD4	Friuli-Venezia Giulia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2013	98		
+A	Annuale	ITD4	Friuli-Venezia Giulia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2023	93		
+A	Annuale	ITD4	Friuli-Venezia Giulia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2013	7.1		
+A	Annuale	ITD4	Friuli-Venezia Giulia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2023	7		
+A	Annuale	ITD4	Friuli-Venezia Giulia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2013	9.2		
+A	Annuale	ITD4	Friuli-Venezia Giulia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2023	8.8		
+A	Annuale	ITD4	Friuli-Venezia Giulia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2013	15.1		
+A	Annuale	ITD4	Friuli-Venezia Giulia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2023	14.4		
+A	Annuale	ITD4	Friuli-Venezia Giulia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	1297		
+A	Annuale	ITD4	Friuli-Venezia Giulia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	649		
+A	Annuale	ITD4	Friuli-Venezia Giulia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	2859		
+A	Annuale	ITD4	Friuli-Venezia Giulia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	1697		
+A	Annuale	ITD4	Friuli-Venezia Giulia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	4156		
+A	Annuale	ITD4	Friuli-Venezia Giulia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	2346		
+A	Annuale	ITD4	Friuli-Venezia Giulia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	17.2		
+A	Annuale	ITD4	Friuli-Venezia Giulia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	8.8		
+A	Annuale	ITD4	Friuli-Venezia Giulia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	29.1		
+A	Annuale	ITD4	Friuli-Venezia Giulia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	18.3		
+A	Annuale	ITD4	Friuli-Venezia Giulia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	25.8		
+A	Annuale	ITD4	Friuli-Venezia Giulia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	15.5		
+A	Annuale	ITD5	Emilia-Romagna	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2013	240		
+A	Annuale	ITD5	Emilia-Romagna	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2023	234		
+A	Annuale	ITD5	Emilia-Romagna	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2013	326		
+A	Annuale	ITD5	Emilia-Romagna	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2023	301		
+A	Annuale	ITD5	Emilia-Romagna	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2013	6.2		
+A	Annuale	ITD5	Emilia-Romagna	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2023	6		
+A	Annuale	ITD5	Emilia-Romagna	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2013	8.5		
+A	Annuale	ITD5	Emilia-Romagna	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2023	7.8		
+A	Annuale	ITD5	Emilia-Romagna	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2013	13.7		
+A	Annuale	ITD5	Emilia-Romagna	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2023	11.7		
+A	Annuale	ITD5	Emilia-Romagna	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	3849		
+A	Annuale	ITD5	Emilia-Romagna	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	2714		
+A	Annuale	ITD5	Emilia-Romagna	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	6502		
+A	Annuale	ITD5	Emilia-Romagna	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	5370		
+A	Annuale	ITD5	Emilia-Romagna	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	10351		
+A	Annuale	ITD5	Emilia-Romagna	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	8084		
+A	Annuale	ITD5	Emilia-Romagna	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	16		
+A	Annuale	ITD5	Emilia-Romagna	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	11.6		
+A	Annuale	ITD5	Emilia-Romagna	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	20		
+A	Annuale	ITD5	Emilia-Romagna	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	17.8		
+A	Annuale	ITD5	Emilia-Romagna	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	19.7		
+A	Annuale	ITD5	Emilia-Romagna	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	17.9		
+A	Annuale	ITE	Centro	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2013	702		
+A	Annuale	ITE	Centro	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2023	500		
+A	Annuale	ITE	Centro	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2013	823		
+A	Annuale	ITE	Centro	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2023	592		
+A	Annuale	ITE	Centro	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2013	6.8		
+A	Annuale	ITE	Centro	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2023	4.9		
+A	Annuale	ITE	Centro	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2013	7.9		
+A	Annuale	ITE	Centro	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2023	5.8		
+A	Annuale	ITE	Centro	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2013	13.5		
+A	Annuale	ITE	Centro	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2023	8.8		
+A	Annuale	ITE	Centro	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	11121		
+A	Annuale	ITE	Centro	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	4800		
+A	Annuale	ITE	Centro	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	14727		
+A	Annuale	ITE	Centro	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	9400		
+A	Annuale	ITE	Centro	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	25848		
+A	Annuale	ITE	Centro	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	14201		
+A	Annuale	ITE	Centro	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	15.8		
+A	Annuale	ITE	Centro	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	9.6		
+A	Annuale	ITE	Centro	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	17.9		
+A	Annuale	ITE	Centro	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	15.9		
+A	Annuale	ITE	Centro	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	18.5		
+A	Annuale	ITE	Centro	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	15.8		
+A	Annuale	ITE1	Toscana	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2013	222		
+A	Annuale	ITE1	Toscana	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2023	206		
+A	Annuale	ITE1	Toscana	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2013	266		
+A	Annuale	ITE1	Toscana	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2023	243		
+A	Annuale	ITE1	Toscana	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2013	6.8		
+A	Annuale	ITE1	Toscana	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2023	6.4		
+A	Annuale	ITE1	Toscana	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2013	8.1		
+A	Annuale	ITE1	Toscana	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2023	7.5		
+A	Annuale	ITE1	Toscana	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2013	14		
+A	Annuale	ITE1	Toscana	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2023	11.3		
+A	Annuale	ITE1	Toscana	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	3453		
+A	Annuale	ITE1	Toscana	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	1956		
+A	Annuale	ITE1	Toscana	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	5598		
+A	Annuale	ITE1	Toscana	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	4447		
+A	Annuale	ITE1	Toscana	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	9051		
+A	Annuale	ITE1	Toscana	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	6403		
+A	Annuale	ITE1	Toscana	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	15.5		
+A	Annuale	ITE1	Toscana	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	9.5		
+A	Annuale	ITE1	Toscana	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	21.1		
+A	Annuale	ITE1	Toscana	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	18.3		
+A	Annuale	ITE1	Toscana	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	19.8		
+A	Annuale	ITE1	Toscana	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	17.6		
+A	Annuale	ITE2	Umbria	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2013	38		
+A	Annuale	ITE2	Umbria	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2023	27		
+A	Annuale	ITE2	Umbria	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2013	65		
+A	Annuale	ITE2	Umbria	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2023	49		
+A	Annuale	ITE2	Umbria	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2013	4.8		
+A	Annuale	ITE2	Umbria	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2023	3.5		
+A	Annuale	ITE2	Umbria	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2013	8.3		
+A	Annuale	ITE2	Umbria	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2023	6.5		
+A	Annuale	ITE2	Umbria	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2013	12.3		
+A	Annuale	ITE2	Umbria	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2023	8.8		
+A	Annuale	ITE2	Umbria	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	326		
+A	Annuale	ITE2	Umbria	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	223		
+A	Annuale	ITE2	Umbria	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	1082		
+A	Annuale	ITE2	Umbria	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	635		
+A	Annuale	ITE2	Umbria	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	1409		
+A	Annuale	ITE2	Umbria	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	858		
+A	Annuale	ITE2	Umbria	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	8.7		
+A	Annuale	ITE2	Umbria	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	8.4		
+A	Annuale	ITE2	Umbria	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	16.6		
+A	Annuale	ITE2	Umbria	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	12.9		
+A	Annuale	ITE2	Umbria	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	14.5		
+A	Annuale	ITE2	Umbria	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	13		
+A	Annuale	ITE3	Marche	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2013	70		
+A	Annuale	ITE3	Marche	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2023	61		
+A	Annuale	ITE3	Marche	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2013	98		
+A	Annuale	ITE3	Marche	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2023	98		
+A	Annuale	ITE3	Marche	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2013	5.2		
+A	Annuale	ITE3	Marche	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2023	4.7		
+A	Annuale	ITE3	Marche	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2013	7.3		
+A	Annuale	ITE3	Marche	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2023	7.5		
+A	Annuale	ITE3	Marche	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2013	11.6		
+A	Annuale	ITE3	Marche	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2023	10.4		
+A	Annuale	ITE3	Marche	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	836		
+A	Annuale	ITE3	Marche	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	629		
+A	Annuale	ITE3	Marche	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	2089		
+A	Annuale	ITE3	Marche	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	1608		
+A	Annuale	ITE3	Marche	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	2925		
+A	Annuale	ITE3	Marche	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	2238		
+A	Annuale	ITE3	Marche	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	12		
+A	Annuale	ITE3	Marche	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	10.3		
+A	Annuale	ITE3	Marche	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	21.3		
+A	Annuale	ITE3	Marche	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	16.4		
+A	Annuale	ITE3	Marche	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	18.7		
+A	Annuale	ITE3	Marche	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	16.5		
+A	Annuale	ITE4	Lazio	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2013	372		
+A	Annuale	ITE4	Lazio	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2023	207		
+A	Annuale	ITE4	Lazio	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2013	394		
+A	Annuale	ITE4	Lazio	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2023	202		
+A	Annuale	ITE4	Lazio	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2013	7.5		
+A	Annuale	ITE4	Lazio	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2023	4.2		
+A	Annuale	ITE4	Lazio	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2013	7.9		
+A	Annuale	ITE4	Lazio	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2023	4.1		
+A	Annuale	ITE4	Lazio	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2013	13.8		
+A	Annuale	ITE4	Lazio	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2023	6.7		
+A	Annuale	ITE4	Lazio	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	6506		
+A	Annuale	ITE4	Lazio	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	1991		
+A	Annuale	ITE4	Lazio	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	5958		
+A	Annuale	ITE4	Lazio	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	2710		
+A	Annuale	ITE4	Lazio	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	12464		
+A	Annuale	ITE4	Lazio	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	4701		
+A	Annuale	ITE4	Lazio	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	17.5		
+A	Annuale	ITE4	Lazio	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	9.6		
+A	Annuale	ITE4	Lazio	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	15.1		
+A	Annuale	ITE4	Lazio	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	13.4		
+A	Annuale	ITE4	Lazio	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	18.2		
+A	Annuale	ITE4	Lazio	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	14.1		
+A	Annuale	ITF	Sud	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2013	502		
+A	Annuale	ITF	Sud	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2023	329		
+A	Annuale	ITF	Sud	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2013	636		
+A	Annuale	ITF	Sud	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2023	390		
+A	Annuale	ITF	Sud	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2013	4.2		
+A	Annuale	ITF	Sud	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2023	2.8		
+A	Annuale	ITF	Sud	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2013	5.3		
+A	Annuale	ITF	Sud	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2023	3.3		
+A	Annuale	ITF	Sud	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2013	8.7		
+A	Annuale	ITF	Sud	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2023	4.7		
+A	Annuale	ITF	Sud	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	7498		
+A	Annuale	ITF	Sud	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	4124		
+A	Annuale	ITF	Sud	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	9669		
+A	Annuale	ITF	Sud	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	6259		
+A	Annuale	ITF	Sud	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	17167		
+A	Annuale	ITF	Sud	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	10383		
+A	Annuale	ITF	Sud	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	15		
+A	Annuale	ITF	Sud	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	12.5		
+A	Annuale	ITF	Sud	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	15.2		
+A	Annuale	ITF	Sud	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	16.1		
+A	Annuale	ITF	Sud	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	16.4		
+A	Annuale	ITF	Sud	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	18.9		
+A	Annuale	ITF1	Abruzzo	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2013	62		
+A	Annuale	ITF1	Abruzzo	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2023	42		
+A	Annuale	ITF1	Abruzzo	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2013	73		
+A	Annuale	ITF1	Abruzzo	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2023	42		
+A	Annuale	ITF1	Abruzzo	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2013	5.3		
+A	Annuale	ITF1	Abruzzo	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2023	3.7		
+A	Annuale	ITF1	Abruzzo	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2013	6.2		
+A	Annuale	ITF1	Abruzzo	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2023	3.8		
+A	Annuale	ITF1	Abruzzo	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2013	10.7		
+A	Annuale	ITF1	Abruzzo	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2023	5.7		
+A	Annuale	ITF1	Abruzzo	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	1371		
+A	Annuale	ITF1	Abruzzo	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	431		
+A	Annuale	ITF1	Abruzzo	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	1140		
+A	Annuale	ITF1	Abruzzo	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	688		
+A	Annuale	ITF1	Abruzzo	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	2512		
+A	Annuale	ITF1	Abruzzo	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	1119		
+A	Annuale	ITF1	Abruzzo	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	22.1		
+A	Annuale	ITF1	Abruzzo	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	10.4		
+A	Annuale	ITF1	Abruzzo	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	15.7		
+A	Annuale	ITF1	Abruzzo	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	16.3		
+A	Annuale	ITF1	Abruzzo	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	20		
+A	Annuale	ITF1	Abruzzo	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	17.5		
+A	Annuale	ITF2	Molise	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2013	13		
+A	Annuale	ITF2	Molise	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2023	12		
+A	Annuale	ITF2	Molise	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2013	15		
+A	Annuale	ITF2	Molise	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2023	10		
+A	Annuale	ITF2	Molise	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2013	4.6		
+A	Annuale	ITF2	Molise	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2023	4.7		
+A	Annuale	ITF2	Molise	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2013	5.4		
+A	Annuale	ITF2	Molise	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2023	4.1		
+A	Annuale	ITF2	Molise	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2013	9.1		
+A	Annuale	ITF2	Molise	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2023	6.9		
+A	Annuale	ITF2	Molise	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	114		
+A	Annuale	ITF2	Molise	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	118		
+A	Annuale	ITF2	Molise	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	289		
+A	Annuale	ITF2	Molise	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	112		
+A	Annuale	ITF2	Molise	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	402		
+A	Annuale	ITF2	Molise	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	229		
+A	Annuale	ITF2	Molise	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	8.9		
+A	Annuale	ITF2	Molise	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	9.7		
+A	Annuale	ITF2	Molise	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	19		
+A	Annuale	ITF2	Molise	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	10.7		
+A	Annuale	ITF2	Molise	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	15.9		
+A	Annuale	ITF2	Molise	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	12.9		
+A	Annuale	ITF3	Campania	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2013	173		
+A	Annuale	ITF3	Campania	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2023	104		
+A	Annuale	ITF3	Campania	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2013	254		
+A	Annuale	ITF3	Campania	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2023	123		
+A	Annuale	ITF3	Campania	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2013	3.5		
+A	Annuale	ITF3	Campania	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2023	2.2		
+A	Annuale	ITF3	Campania	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2013	5.2		
+A	Annuale	ITF3	Campania	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2023	2.5		
+A	Annuale	ITF3	Campania	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2013	8		
+A	Annuale	ITF3	Campania	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2023	3.8		
+A	Annuale	ITF3	Campania	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	2557		
+A	Annuale	ITF3	Campania	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	1049		
+A	Annuale	ITF3	Campania	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	2865		
+A	Annuale	ITF3	Campania	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	1820		
+A	Annuale	ITF3	Campania	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	5421		
+A	Annuale	ITF3	Campania	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	2869		
+A	Annuale	ITF3	Campania	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	14.8		
+A	Annuale	ITF3	Campania	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	10.1		
+A	Annuale	ITF3	Campania	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	11.3		
+A	Annuale	ITF3	Campania	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	14.8		
+A	Annuale	ITF3	Campania	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	13.8		
+A	Annuale	ITF3	Campania	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	15.5		
+A	Annuale	ITF4	Puglia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2013	134		
+A	Annuale	ITF4	Puglia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2023	95		
+A	Annuale	ITF4	Puglia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2013	189		
+A	Annuale	ITF4	Puglia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2023	135		
+A	Annuale	ITF4	Puglia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2013	3.9		
+A	Annuale	ITF4	Puglia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2023	2.8		
+A	Annuale	ITF4	Puglia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2013	5.5		
+A	Annuale	ITF4	Puglia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2023	3.9		
+A	Annuale	ITF4	Puglia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2013	8.6		
+A	Annuale	ITF4	Puglia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2023	4.9		
+A	Annuale	ITF4	Puglia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	1721		
+A	Annuale	ITF4	Puglia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	1044		
+A	Annuale	ITF4	Puglia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	3693		
+A	Annuale	ITF4	Puglia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	2490		
+A	Annuale	ITF4	Puglia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	5414		
+A	Annuale	ITF4	Puglia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	3534		
+A	Annuale	ITF4	Puglia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	12.8		
+A	Annuale	ITF4	Puglia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	11		
+A	Annuale	ITF4	Puglia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	19.5		
+A	Annuale	ITF4	Puglia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	18.5		
+A	Annuale	ITF4	Puglia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	18.2		
+A	Annuale	ITF4	Puglia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	21.4		
+A	Annuale	ITF5	Basilicata	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2013	23		
+A	Annuale	ITF5	Basilicata	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2023	29		
+A	Annuale	ITF5	Basilicata	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2013	34		
+A	Annuale	ITF5	Basilicata	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2023	25		
+A	Annuale	ITF5	Basilicata	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2013	4.6		
+A	Annuale	ITF5	Basilicata	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2023	6.1		
+A	Annuale	ITF5	Basilicata	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2013	6.7		
+A	Annuale	ITF5	Basilicata	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2023	5.3		
+A	Annuale	ITF5	Basilicata	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2013	10.3		
+A	Annuale	ITF5	Basilicata	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2023	9.2		
+A	Annuale	ITF5	Basilicata	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	435		
+A	Annuale	ITF5	Basilicata	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	793		
+A	Annuale	ITF5	Basilicata	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	588		
+A	Annuale	ITF5	Basilicata	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	449		
+A	Annuale	ITF5	Basilicata	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	1023		
+A	Annuale	ITF5	Basilicata	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	1243		
+A	Annuale	ITF5	Basilicata	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	18.9		
+A	Annuale	ITF5	Basilicata	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	27.7		
+A	Annuale	ITF5	Basilicata	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	17.4		
+A	Annuale	ITF5	Basilicata	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	17.9		
+A	Annuale	ITF5	Basilicata	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	19.6		
+A	Annuale	ITF5	Basilicata	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	28.4		
+A	Annuale	ITF6	Calabria	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2013	97		
+A	Annuale	ITF6	Calabria	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2023	48		
+A	Annuale	ITF6	Calabria	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2013	72		
+A	Annuale	ITF6	Calabria	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2023	55		
+A	Annuale	ITF6	Calabria	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2013	5.6		
+A	Annuale	ITF6	Calabria	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2023	3		
+A	Annuale	ITF6	Calabria	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2013	4.2		
+A	Annuale	ITF6	Calabria	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2023	3.4		
+A	Annuale	ITF6	Calabria	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2013	9		
+A	Annuale	ITF6	Calabria	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2023	4.6		
+A	Annuale	ITF6	Calabria	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	1301		
+A	Annuale	ITF6	Calabria	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	689		
+A	Annuale	ITF6	Calabria	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	1095		
+A	Annuale	ITF6	Calabria	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	700		
+A	Annuale	ITF6	Calabria	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	2396		
+A	Annuale	ITF6	Calabria	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	1389		
+A	Annuale	ITF6	Calabria	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	13.5		
+A	Annuale	ITF6	Calabria	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	14.3		
+A	Annuale	ITF6	Calabria	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	15.3		
+A	Annuale	ITF6	Calabria	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	12.8		
+A	Annuale	ITF6	Calabria	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	15.6		
+A	Annuale	ITF6	Calabria	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	19		
+A	Annuale	ITG	Isole	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2013	326		
+A	Annuale	ITG	Isole	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2023	255		
+A	Annuale	ITG	Isole	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2013	338		
+A	Annuale	ITG	Isole	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2023	237		
+A	Annuale	ITG	Isole	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2013	5.7		
+A	Annuale	ITG	Isole	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2023	4.6		
+A	Annuale	ITG	Isole	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2013	5.9		
+A	Annuale	ITG	Isole	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2023	4.3		
+A	Annuale	ITG	Isole	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2013	10.5		
+A	Annuale	ITG	Isole	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2023	7.3		
+A	Annuale	ITG	Isole	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	4629		
+A	Annuale	ITG	Isole	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	3463		
+A	Annuale	ITG	Isole	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	4753		
+A	Annuale	ITG	Isole	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	3586		
+A	Annuale	ITG	Isole	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	9382		
+A	Annuale	ITG	Isole	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	7049		
+A	Annuale	ITG	Isole	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	14.2		
+A	Annuale	ITG	Isole	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	13.6		
+A	Annuale	ITG	Isole	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	14.1		
+A	Annuale	ITG	Isole	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	15.1		
+A	Annuale	ITG	Isole	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	15.7		
+A	Annuale	ITG	Isole	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	17.4		
+A	Annuale	ITG1	Sicilia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2013	218		
+A	Annuale	ITG1	Sicilia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2023	182		
+A	Annuale	ITG1	Sicilia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2013	240		
+A	Annuale	ITG1	Sicilia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2023	161		
+A	Annuale	ITG1	Sicilia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2013	5.1		
+A	Annuale	ITG1	Sicilia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2023	4.4		
+A	Annuale	ITG1	Sicilia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2013	5.6		
+A	Annuale	ITG1	Sicilia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2023	3.9		
+A	Annuale	ITG1	Sicilia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2013	9.4		
+A	Annuale	ITG1	Sicilia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2023	6.9		
+A	Annuale	ITG1	Sicilia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	2561		
+A	Annuale	ITG1	Sicilia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	2074		
+A	Annuale	ITG1	Sicilia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	3089		
+A	Annuale	ITG1	Sicilia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	2660		
+A	Annuale	ITG1	Sicilia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	5650		
+A	Annuale	ITG1	Sicilia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	4734		
+A	Annuale	ITG1	Sicilia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	11.8		
+A	Annuale	ITG1	Sicilia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	11.4		
+A	Annuale	ITG1	Sicilia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	12.9		
+A	Annuale	ITG1	Sicilia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	16.5		
+A	Annuale	ITG1	Sicilia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	14.1		
+A	Annuale	ITG1	Sicilia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	16.5		
+A	Annuale	ITG2	Sardegna	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2013	108		
+A	Annuale	ITG2	Sardegna	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2023	72		
+A	Annuale	ITG2	Sardegna	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2013	98		
+A	Annuale	ITG2	Sardegna	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2023	76		
+A	Annuale	ITG2	Sardegna	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2013	7.4		
+A	Annuale	ITG2	Sardegna	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2023	5.1		
+A	Annuale	ITG2	Sardegna	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2013	6.7		
+A	Annuale	ITG2	Sardegna	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2023	5.4		
+A	Annuale	ITG2	Sardegna	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2013	13.5		
+A	Annuale	ITG2	Sardegna	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2023	8.4		
+A	Annuale	ITG2	Sardegna	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	2068		
+A	Annuale	ITG2	Sardegna	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	1389		
+A	Annuale	ITG2	Sardegna	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	1664		
+A	Annuale	ITG2	Sardegna	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	926		
+A	Annuale	ITG2	Sardegna	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	3732		
+A	Annuale	ITG2	Sardegna	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	2315		
+A	Annuale	ITG2	Sardegna	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	19.1		
+A	Annuale	ITG2	Sardegna	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	19.2		
+A	Annuale	ITG2	Sardegna	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	16.9		
+A	Annuale	ITG2	Sardegna	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	12.2		
+A	Annuale	ITG2	Sardegna	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	18.9		
+A	Annuale	ITG2	Sardegna	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	19.6		
+A	Annuale	2	Centro area metropolitana	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2013	492		
+A	Annuale	2	Centro area metropolitana	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2023	366		
+A	Annuale	2	Centro area metropolitana	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2013	638		
+A	Annuale	2	Centro area metropolitana	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2023	368		
+A	Annuale	2	Centro area metropolitana	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2013	6.3		
+A	Annuale	2	Centro area metropolitana	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2023	4.8		
+A	Annuale	2	Centro area metropolitana	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2013	8.2		
+A	Annuale	2	Centro area metropolitana	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2023	4.8		
+A	Annuale	2	Centro area metropolitana	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2013	13.6		
+A	Annuale	2	Centro area metropolitana	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2023	8.4		
+A	Annuale	2	Centro area metropolitana	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	7342		
+A	Annuale	2	Centro area metropolitana	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	4040		
+A	Annuale	2	Centro area metropolitana	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	12590		
+A	Annuale	2	Centro area metropolitana	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	5999		
+A	Annuale	2	Centro area metropolitana	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	19932		
+A	Annuale	2	Centro area metropolitana	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	10039		
+A	Annuale	2	Centro area metropolitana	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	14.9		
+A	Annuale	2	Centro area metropolitana	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	11.1		
+A	Annuale	2	Centro area metropolitana	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	19.7		
+A	Annuale	2	Centro area metropolitana	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	16.3		
+A	Annuale	2	Centro area metropolitana	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	18.9		
+A	Annuale	2	Centro area metropolitana	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	15.6		
+A	Annuale	3	Periferia area metropolitana	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2013	441		
+A	Annuale	3	Periferia area metropolitana	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2023	373		
+A	Annuale	3	Periferia area metropolitana	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2013	571		
+A	Annuale	3	Periferia area metropolitana	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2023	426		
+A	Annuale	3	Periferia area metropolitana	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2013	7		
+A	Annuale	3	Periferia area metropolitana	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2023	5.1		
+A	Annuale	3	Periferia area metropolitana	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2013	9		
+A	Annuale	3	Periferia area metropolitana	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2023	5.8		
+A	Annuale	3	Periferia area metropolitana	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2013	14.7		
+A	Annuale	3	Periferia area metropolitana	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2023	8.8		
+A	Annuale	3	Periferia area metropolitana	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	7607		
+A	Annuale	3	Periferia area metropolitana	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	3921		
+A	Annuale	3	Periferia area metropolitana	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	13006		
+A	Annuale	3	Periferia area metropolitana	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	8889		
+A	Annuale	3	Periferia area metropolitana	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	20613		
+A	Annuale	3	Periferia area metropolitana	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	12809		
+A	Annuale	3	Periferia area metropolitana	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	17.2		
+A	Annuale	3	Periferia area metropolitana	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	10.5		
+A	Annuale	3	Periferia area metropolitana	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	22.8		
+A	Annuale	3	Periferia area metropolitana	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	20.8		
+A	Annuale	3	Periferia area metropolitana	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	22.2		
+A	Annuale	3	Periferia area metropolitana	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	19.9		
+A	Annuale	6	Fino a 2.000 ab.	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2013	151		
+A	Annuale	6	Fino a 2.000 ab.	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2023	171		
+A	Annuale	6	Fino a 2.000 ab.	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2013	228		
+A	Annuale	6	Fino a 2.000 ab.	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2023	171		
+A	Annuale	6	Fino a 2.000 ab.	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2013	5.2		
+A	Annuale	6	Fino a 2.000 ab.	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2023	6.4		
+A	Annuale	6	Fino a 2.000 ab.	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2013	7.8		
+A	Annuale	6	Fino a 2.000 ab.	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2023	6.4		
+A	Annuale	6	Fino a 2.000 ab.	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2013	11.7		
+A	Annuale	6	Fino a 2.000 ab.	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2023	11.1		
+A	Annuale	6	Fino a 2.000 ab.	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	2826		
+A	Annuale	6	Fino a 2.000 ab.	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	2634		
+A	Annuale	6	Fino a 2.000 ab.	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	3296		
+A	Annuale	6	Fino a 2.000 ab.	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	3213		
+A	Annuale	6	Fino a 2.000 ab.	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	6122		
+A	Annuale	6	Fino a 2.000 ab.	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	5846		
+A	Annuale	6	Fino a 2.000 ab.	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	18.7		
+A	Annuale	6	Fino a 2.000 ab.	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	15.4		
+A	Annuale	6	Fino a 2.000 ab.	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	14.5		
+A	Annuale	6	Fino a 2.000 ab.	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	18.8		
+A	Annuale	6	Fino a 2.000 ab.	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	18		
+A	Annuale	6	Fino a 2.000 ab.	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	19.7		
+A	Annuale	7	2.001 - 10.000 ab.	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2013	641		
+A	Annuale	7	2.001 - 10.000 ab.	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2023	617		
+A	Annuale	7	2.001 - 10.000 ab.	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2013	1027		
+A	Annuale	7	2.001 - 10.000 ab.	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2023	814		
+A	Annuale	7	2.001 - 10.000 ab.	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2013	5.2		
+A	Annuale	7	2.001 - 10.000 ab.	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2023	5.4		
+A	Annuale	7	2.001 - 10.000 ab.	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2013	8.4		
+A	Annuale	7	2.001 - 10.000 ab.	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2023	7.1		
+A	Annuale	7	2.001 - 10.000 ab.	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2013	12.6		
+A	Annuale	7	2.001 - 10.000 ab.	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2023	9.9		
+A	Annuale	7	2.001 - 10.000 ab.	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	10082		
+A	Annuale	7	2.001 - 10.000 ab.	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	6591		
+A	Annuale	7	2.001 - 10.000 ab.	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	19076		
+A	Annuale	7	2.001 - 10.000 ab.	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	14682		
+A	Annuale	7	2.001 - 10.000 ab.	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	29159		
+A	Annuale	7	2.001 - 10.000 ab.	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	21272		
+A	Annuale	7	2.001 - 10.000 ab.	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	15.7		
+A	Annuale	7	2.001 - 10.000 ab.	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	10.7		
+A	Annuale	7	2.001 - 10.000 ab.	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	18.6		
+A	Annuale	7	2.001 - 10.000 ab.	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	18		
+A	Annuale	7	2.001 - 10.000 ab.	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	18.9		
+A	Annuale	7	2.001 - 10.000 ab.	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	18.6		
+A	Annuale	8	10.001 - 50.000 ab.	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2013	748		
+A	Annuale	8	10.001 - 50.000 ab.	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2023	644		
+A	Annuale	8	10.001 - 50.000 ab.	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2013	1036		
+A	Annuale	8	10.001 - 50.000 ab.	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2023	880		
+A	Annuale	8	10.001 - 50.000 ab.	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2013	5.4		
+A	Annuale	8	10.001 - 50.000 ab.	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2023	4.8		
+A	Annuale	8	10.001 - 50.000 ab.	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2013	7.5		
+A	Annuale	8	10.001 - 50.000 ab.	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2023	6.6		
+A	Annuale	8	10.001 - 50.000 ab.	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2013	12		
+A	Annuale	8	10.001 - 50.000 ab.	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2023	9.3		
+A	Annuale	8	10.001 - 50.000 ab.	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	12390		
+A	Annuale	8	10.001 - 50.000 ab.	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	6836		
+A	Annuale	8	10.001 - 50.000 ab.	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	16301		
+A	Annuale	8	10.001 - 50.000 ab.	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	14702		
+A	Annuale	8	10.001 - 50.000 ab.	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	28692		
+A	Annuale	8	10.001 - 50.000 ab.	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	21537		
+A	Annuale	8	10.001 - 50.000 ab.	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	16.6		
+A	Annuale	8	10.001 - 50.000 ab.	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	10.6		
+A	Annuale	8	10.001 - 50.000 ab.	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	15.7		
+A	Annuale	8	10.001 - 50.000 ab.	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	16.7		
+A	Annuale	8	10.001 - 50.000 ab.	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	17.3		
+A	Annuale	8	10.001 - 50.000 ab.	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	17.3		
+A	Annuale	9	50.001 ab. e più	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2013	542		
+A	Annuale	9	50.001 ab. e più	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	2023	356		
+A	Annuale	9	50.001 ab. e più	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2013	623		
+A	Annuale	9	50.001 ab. e più	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	2023	515		
+A	Annuale	9	50.001 ab. e più	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2013	6		
+A	Annuale	9	50.001 ab. e più	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	2023	4		
+A	Annuale	9	50.001 ab. e più	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2013	6.9		
+A	Annuale	9	50.001 ab. e più	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	2023	5.9		
+A	Annuale	9	50.001 ab. e più	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2013	12		
+A	Annuale	9	50.001 ab. e più	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	2023	8.1		
+A	Annuale	9	50.001 ab. e più	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	7988		
+A	Annuale	9	50.001 ab. e più	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	3671		
+A	Annuale	9	50.001 ab. e più	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	12784		
+A	Annuale	9	50.001 ab. e più	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	9101		
+A	Annuale	9	50.001 ab. e più	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	20771		
+A	Annuale	9	50.001 ab. e più	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	12773		
+A	Annuale	9	50.001 ab. e più	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2013	14.7		
+A	Annuale	9	50.001 ab. e più	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	2023	10.3		
+A	Annuale	9	50.001 ab. e più	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2013	20.5		
+A	Annuale	9	50.001 ab. e più	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	2023	17.7		
+A	Annuale	9	50.001 ab. e più	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2013	19.3		
+A	Annuale	9	50.001 ab. e più	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	2023	18		

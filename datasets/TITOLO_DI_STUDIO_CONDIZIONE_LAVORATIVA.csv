@@ -1,0 +1,265 @@
+﻿FREQ	Frequenza	REF_AREA	Territorio	DATA_TYPE	Indicatore	FORM_VOLUNT	Tipo di volontariato	EDU_LEV_HIGHEST	Titolo di studio	LABOUR_PROFESS_STATUS_C	Condizione lavorativa	TIME_PERIOD	Osservazione	OBS_STATUS	'Stato dell"'osservazione'
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	3	Licenza di scuola elementare, nessun titolo di studio	99	Totale	2013	347		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	3	Licenza di scuola elementare, nessun titolo di studio	99	Totale	2023	162		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	4	Licenza di scuola media	99	Totale	2013	772		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	4	Licenza di scuola media	99	Totale	2023	619		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	7	Diploma	99	Totale	2013	1177		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	7	Diploma	99	Totale	2023	1052		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	11	Laurea e post-laurea	99	Totale	2013	719		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	11	Laurea e post-laurea	99	Totale	2023	694		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	99	Totale	1	Occupato	2013	1514		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	99	Totale	1	Occupato	2023	1176		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	99	Totale	11	Non occupato	2013	1502		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	99	Totale	11	Non occupato	2023	1351		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	99	Totale	4	Casalinga-o	2013	364		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	99	Totale	4	Casalinga-o	2023	297		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	99	Totale	5	Studente	2013	188		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	99	Totale	5	Studente	2023	174		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	99	Totale	6	Ritirato-a dal lavoro	2013	544		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	99	Totale	6	Ritirato-a dal lavoro	2023	624		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	99	Totale	7	In altra condizione	2013	81		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	99	Totale	7	In altra condizione	2023	83		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	99	Totale	12	In cerca di occupazione	2013	325		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	99	Totale	12	In cerca di occupazione	2023	173		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	99	Totale	99	Totale	2013	3016		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	DIRVOL	Volontariato non organizzato	99	Totale	99	Totale	2023	2526		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	3	Licenza di scuola elementare, nessun titolo di studio	99	Totale	2013	318		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	3	Licenza di scuola elementare, nessun titolo di studio	99	Totale	2023	157		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	4	Licenza di scuola media	99	Totale	2013	1075		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	4	Licenza di scuola media	99	Totale	2023	770		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	7	Diploma	99	Totale	2013	1830		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	7	Diploma	99	Totale	2023	1350		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	11	Laurea e post-laurea	99	Totale	2013	899		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	11	Laurea e post-laurea	99	Totale	2023	898		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	99	Totale	1	Occupato	2013	2004		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	99	Totale	1	Occupato	2023	1393		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	99	Totale	11	Non occupato	2013	2118		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	99	Totale	11	Non occupato	2023	1781		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	99	Totale	4	Casalinga-o	2013	426		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	99	Totale	4	Casalinga-o	2023	310		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	99	Totale	5	Studente	2013	417		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	99	Totale	5	Studente	2023	277		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	99	Totale	6	Ritirato-a dal lavoro	2013	835		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	99	Totale	6	Ritirato-a dal lavoro	2023	923		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	99	Totale	7	In altra condizione	2013	84		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	99	Totale	7	In altra condizione	2023	100		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	99	Totale	12	In cerca di occupazione	2013	356		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	99	Totale	12	In cerca di occupazione	2023	170		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	99	Totale	99	Totale	2013	4123		
+A	Annuale	IT	Italia	PGE15_UAAV	Persone di 15 anni e più che hanno svolto attività gratuite	ORGVOL	Volontariato organizzato	99	Totale	99	Totale	2023	3175		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	3	Licenza di scuola elementare, nessun titolo di studio	99	Totale	2013	3.3		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	3	Licenza di scuola elementare, nessun titolo di studio	99	Totale	2023	2.4		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	4	Licenza di scuola media	99	Totale	2013	4.6		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	4	Licenza di scuola media	99	Totale	2023	4		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	7	Diploma	99	Totale	2013	6.4		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	7	Diploma	99	Totale	2023	5.1		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	11	Laurea e post-laurea	99	Totale	2013	10.9		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	11	Laurea e post-laurea	99	Totale	2023	7.9		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	99	Totale	1	Occupato	2013	6.9		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	99	Totale	1	Occupato	2023	5.3		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	99	Totale	11	Non occupato	2013	5		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	99	Totale	11	Non occupato	2023	4.6		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	99	Totale	4	Casalinga-o	2013	4.6		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	99	Totale	4	Casalinga-o	2023	4.4		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	99	Totale	5	Studente	2013	4.3		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	99	Totale	5	Studente	2023	3.4		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	99	Totale	6	Ritirato-a dal lavoro	2013	5.1		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	99	Totale	6	Ritirato-a dal lavoro	2023	5.2		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	99	Totale	7	In altra condizione	2013	5.3		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	99	Totale	7	In altra condizione	2023	3.3		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	99	Totale	12	In cerca di occupazione	2013	5.7		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	99	Totale	12	In cerca di occupazione	2023	6		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	99	Totale	99	Totale	2013	5.8		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	DIRVOL	Volontariato non organizzato	99	Totale	99	Totale	2023	4.9		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	3	Licenza di scuola elementare, nessun titolo di studio	99	Totale	2013	3.1		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	3	Licenza di scuola elementare, nessun titolo di studio	99	Totale	2023	2.3		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	4	Licenza di scuola media	99	Totale	2013	6.5		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	4	Licenza di scuola media	99	Totale	2023	5		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	7	Diploma	99	Totale	2013	10		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	7	Diploma	99	Totale	2023	6.6		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	11	Laurea e post-laurea	99	Totale	2013	13.6		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	11	Laurea e post-laurea	99	Totale	2023	10.3		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	99	Totale	1	Occupato	2013	9.1		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	99	Totale	1	Occupato	2023	6.3		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	99	Totale	11	Non occupato	2013	7		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	99	Totale	11	Non occupato	2023	6.1		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	99	Totale	4	Casalinga-o	2013	5.4		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	99	Totale	4	Casalinga-o	2023	4.6		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	99	Totale	5	Studente	2013	9.5		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	99	Totale	5	Studente	2023	5.5		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	99	Totale	6	Ritirato-a dal lavoro	2013	7.9		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	99	Totale	6	Ritirato-a dal lavoro	2023	7.8		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	99	Totale	7	In altra condizione	2013	5.5		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	99	Totale	7	In altra condizione	2023	4		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	99	Totale	12	In cerca di occupazione	2013	6.2		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	99	Totale	12	In cerca di occupazione	2023	5.9		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	99	Totale	99	Totale	2013	7.9		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	ORGVOL	Volontariato organizzato	99	Totale	99	Totale	2023	6.2		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	3	Licenza di scuola elementare, nessun titolo di studio	99	Totale	2013	6.1		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	3	Licenza di scuola elementare, nessun titolo di studio	99	Totale	2023	3.9		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	4	Licenza di scuola media	99	Totale	2013	10.5		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	4	Licenza di scuola media	99	Totale	2023	7.6		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	7	Diploma	99	Totale	2013	15.1		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	7	Diploma	99	Totale	2023	9.5		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	11	Laurea e post-laurea	99	Totale	2013	22.1		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	11	Laurea e post-laurea	99	Totale	2023	15		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	99	Totale	1	Occupato	2013	14.8		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	99	Totale	1	Occupato	2023	9.5		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	99	Totale	11	Non occupato	2013	11.1		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	99	Totale	11	Non occupato	2023	8.8		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	99	Totale	4	Casalinga-o	2013	9.5		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	99	Totale	4	Casalinga-o	2023	6.8		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	99	Totale	5	Studente	2013	12.9		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	99	Totale	5	Studente	2023	7.7		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	99	Totale	6	Ritirato-a dal lavoro	2013	12		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	99	Totale	6	Ritirato-a dal lavoro	2023	10.7		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	99	Totale	7	In altra condizione	2013	9.7		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	99	Totale	7	In altra condizione	2023	6.1		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	99	Totale	12	In cerca di occupazione	2013	10.7		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	99	Totale	12	In cerca di occupazione	2023	9.7		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	99	Totale	99	Totale	2013	12.7		
+A	Annuale	IT	Italia	PGE15_UAPV	Persone di 15 anni e più che hanno svolto attività di volontariato (valori percentuali)	TOTAL	Totale	99	Totale	99	Totale	2023	9.1		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	3	Licenza di scuola elementare, nessun titolo di studio	99	Totale	2013	5716		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	3	Licenza di scuola elementare, nessun titolo di studio	99	Totale	2023	1806		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	4	Licenza di scuola media	99	Totale	2013	13382		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	4	Licenza di scuola media	99	Totale	2023	6814		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	7	Diploma	99	Totale	2013	18243		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	7	Diploma	99	Totale	2023	11975		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	11	Laurea e post-laurea	99	Totale	2013	10895		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	11	Laurea e post-laurea	99	Totale	2023	7097		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	99	Totale	1	Occupato	2013	21098		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	99	Totale	1	Occupato	2023	9725		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	99	Totale	11	Non occupato	2013	27138		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	99	Totale	11	Non occupato	2023	17966		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	99	Totale	4	Casalinga-o	2013	7212		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	99	Totale	4	Casalinga-o	2023	3905		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	99	Totale	5	Studente	2013	3506		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	99	Totale	5	Studente	2023	2533		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	99	Totale	6	Ritirato-a dal lavoro	2013	9577		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	99	Totale	6	Ritirato-a dal lavoro	2023	8364		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	99	Totale	7	In altra condizione	2013	1181		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	99	Totale	7	In altra condizione	2023	1207		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	99	Totale	12	In cerca di occupazione	2013	5662		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	99	Totale	12	In cerca di occupazione	2023	1957		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	99	Totale	99	Totale	2013	48236		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	99	Totale	99	Totale	2023	27692		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	3	Licenza di scuola elementare, nessun titolo di studio	99	Totale	2013	7627		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	3	Licenza di scuola elementare, nessun titolo di studio	99	Totale	2023	3791		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	4	Licenza di scuola media	99	Totale	2013	18503		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	4	Licenza di scuola media	99	Totale	2023	14713		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	7	Diploma	99	Totale	2013	33339		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	7	Diploma	99	Totale	2023	24196		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	11	Laurea e post-laurea	99	Totale	2013	17584		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	11	Laurea e post-laurea	99	Totale	2023	13886		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	99	Totale	1	Occupato	2013	30178		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	99	Totale	1	Occupato	2023	19567		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	99	Totale	11	Non occupato	2013	46875		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	99	Totale	11	Non occupato	2023	37018		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	99	Totale	4	Casalinga-o	2013	8167		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	99	Totale	4	Casalinga-o	2023	5405		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	99	Totale	5	Studente	2013	6007		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	99	Totale	5	Studente	2023	5018		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	99	Totale	6	Ritirato-a dal lavoro	2013	23446		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	99	Totale	6	Ritirato-a dal lavoro	2023	21132		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	99	Totale	7	In altra condizione	2013	2733		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	99	Totale	7	In altra condizione	2023	1802		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	99	Totale	12	In cerca di occupazione	2013	6522		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	99	Totale	12	In cerca di occupazione	2023	3661		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	99	Totale	99	Totale	2013	77053		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	99	Totale	99	Totale	2023	56585		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	3	Licenza di scuola elementare, nessun titolo di studio	99	Totale	2013	13343		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	3	Licenza di scuola elementare, nessun titolo di studio	99	Totale	2023	5597		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	4	Licenza di scuola media	99	Totale	2013	31885		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	4	Licenza di scuola media	99	Totale	2023	21526		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	7	Diploma	99	Totale	2013	51581		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	7	Diploma	99	Totale	2023	36171		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	11	Laurea e post-laurea	99	Totale	2013	28479		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	11	Laurea e post-laurea	99	Totale	2023	20982		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	99	Totale	1	Occupato	2013	51276		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	99	Totale	1	Occupato	2023	29292		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	99	Totale	11	Non occupato	2013	74013		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	99	Totale	11	Non occupato	2023	54984		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	99	Totale	4	Casalinga-o	2013	15379		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	99	Totale	4	Casalinga-o	2023	9310		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	99	Totale	5	Studente	2013	9513		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	99	Totale	5	Studente	2023	7551		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	99	Totale	6	Ritirato-a dal lavoro	2013	33023		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	99	Totale	6	Ritirato-a dal lavoro	2023	29496		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	99	Totale	7	In altra condizione	2013	3914		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	99	Totale	7	In altra condizione	2023	3009		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	99	Totale	12	In cerca di occupazione	2013	12184		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	99	Totale	12	In cerca di occupazione	2023	5618		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	99	Totale	99	Totale	2013	125289		
+A	Annuale	IT	Italia	HUA_15	Numero di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	99	Totale	99	Totale	2023	84276		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	3	Licenza di scuola elementare, nessun titolo di studio	99	Totale	2013	16.5		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	3	Licenza di scuola elementare, nessun titolo di studio	99	Totale	2023	11.2		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	4	Licenza di scuola media	99	Totale	2013	17.3		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	4	Licenza di scuola media	99	Totale	2023	11		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	7	Diploma	99	Totale	2013	15.5		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	7	Diploma	99	Totale	2023	11.4		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	11	Laurea e post-laurea	99	Totale	2013	15.1		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	11	Laurea e post-laurea	99	Totale	2023	10.2		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	99	Totale	1	Occupato	2013	13.9		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	99	Totale	1	Occupato	2023	8.3		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	99	Totale	11	Non occupato	2013	18.1		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	99	Totale	11	Non occupato	2023	13.3		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	99	Totale	4	Casalinga-o	2013	19.8		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	99	Totale	4	Casalinga-o	2023	13.1		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	99	Totale	5	Studente	2013	18.6		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	99	Totale	5	Studente	2023	14.6		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	99	Totale	6	Ritirato-a dal lavoro	2013	17.6		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	99	Totale	6	Ritirato-a dal lavoro	2023	13.4		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	99	Totale	7	In altra condizione	2013	14.5		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	99	Totale	7	In altra condizione	2023	14.6		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	99	Totale	12	In cerca di occupazione	2013	17.4		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	99	Totale	12	In cerca di occupazione	2023	11.3		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	99	Totale	99	Totale	2013	16		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	DIRVOL	Volontariato non organizzato	99	Totale	99	Totale	2023	11		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	3	Licenza di scuola elementare, nessun titolo di studio	99	Totale	2013	24		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	3	Licenza di scuola elementare, nessun titolo di studio	99	Totale	2023	24.1		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	4	Licenza di scuola media	99	Totale	2013	17.2		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	4	Licenza di scuola media	99	Totale	2023	19.1		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	7	Diploma	99	Totale	2013	18.2		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	7	Diploma	99	Totale	2023	17.9		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	11	Laurea e post-laurea	99	Totale	2013	19.6		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	11	Laurea e post-laurea	99	Totale	2023	15.5		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	99	Totale	1	Occupato	2013	15.1		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	99	Totale	1	Occupato	2023	14		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	99	Totale	11	Non occupato	2013	22.1		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	99	Totale	11	Non occupato	2023	20.8		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	99	Totale	4	Casalinga-o	2013	19.2		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	99	Totale	4	Casalinga-o	2023	17.4		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	99	Totale	5	Studente	2013	14.4		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	99	Totale	5	Studente	2023	18.1		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	99	Totale	6	Ritirato-a dal lavoro	2013	28.1		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	99	Totale	6	Ritirato-a dal lavoro	2023	22.9		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	99	Totale	7	In altra condizione	2013	32.5		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	99	Totale	7	In altra condizione	2023	17.9		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	99	Totale	12	In cerca di occupazione	2013	18.3		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	99	Totale	12	In cerca di occupazione	2023	21.5		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	99	Totale	99	Totale	2013	18.7		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	ORGVOL	Volontariato organizzato	99	Totale	99	Totale	2023	17.8		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	3	Licenza di scuola elementare, nessun titolo di studio	99	Totale	2013	21.2		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	3	Licenza di scuola elementare, nessun titolo di studio	99	Totale	2023	20.8		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	4	Licenza di scuola media	99	Totale	2013	18.3		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	4	Licenza di scuola media	99	Totale	2023	18.7		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	7	Diploma	99	Totale	2013	18.6		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	7	Diploma	99	Totale	2023	18.5		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	11	Laurea e post-laurea	99	Totale	2013	19.5		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	11	Laurea e post-laurea	99	Totale	2023	16		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	99	Totale	1	Occupato	2013	15.8		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	99	Totale	1	Occupato	2023	13.8		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	99	Totale	11	Non occupato	2013	22.1		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	99	Totale	11	Non occupato	2023	21.5		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	99	Totale	4	Casalinga-o	2013	20.7		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	99	Totale	4	Casalinga-o	2023	20.4		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	99	Totale	5	Studente	2013	16.7		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	99	Totale	5	Studente	2023	19.4		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	99	Totale	6	Ritirato-a dal lavoro	2013	25.9		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	99	Totale	6	Ritirato-a dal lavoro	2023	23.1		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	99	Totale	7	In altra condizione	2013	26.3		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	99	Totale	7	In altra condizione	2023	19.9		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	99	Totale	12	In cerca di occupazione	2013	19.7		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	99	Totale	12	In cerca di occupazione	2023	20		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	99	Totale	99	Totale	2013	19		
+A	Annuale	IT	Italia	HAUA_15	Numero medio di ore di volontariato svolte dalle persone di 15 anni e più in 4 settimane	TOTAL	Totale	99	Totale	99	Totale	2023	18		
